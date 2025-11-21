@@ -39,7 +39,7 @@ FeedbackItem.jsx
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/your-username/feedback-collector-app.git
+git clone https://github.com/ashisherikilla/feedback-collector-app.git
 cd feedback-collector-app
 npm install
 npm run dev
